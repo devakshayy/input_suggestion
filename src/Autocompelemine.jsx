@@ -8,7 +8,11 @@ const Autocompelemine = ({suggestions}) => {
     const handleChange = (e) => {
         const inputValue = e.target.value;
         setInputValue(inputValue);
-        if(inputValue == '') return setFilteredSuggestions([])
+        
+        if (!value.trim()) {
+            setFilteredSuggestions([]);
+            return;
+          }
 
         console.log(inputValue);
        

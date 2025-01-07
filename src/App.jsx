@@ -129,8 +129,8 @@ function App() {
   return (
     <div>  
       {/* <Autocomplete suggestions={suggestions} /> */}
-      <AutocompleteExample suggestions={suggestions} />
-      {/* <Autocompelemine suggestions={suggestions} /> */}
+      {/* <AutocompleteExample suggestions={suggestions} /> */}
+      <Autocompelemine suggestions={suggestions} />
     </div>
   );
 }
