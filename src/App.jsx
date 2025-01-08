@@ -3,17 +3,6 @@ import AutocompleteExample from "./AutocompletDoc";
 import Autocomplete from "./Autocomplete";
 
 function App() {
-  // const suggestions = [
-  //   'React',
-  //   'Angular',
-  //   'Vue.js',
-  //   'Ember.js',
-  //   'Backbone.js',
-  //   'Svelte',
-  //   'Express.js',
-  //   'Meteor.js',
-  //   'Next.js',
-  //   'Nuxt.js'];
 
   const suggestions = [
     // Frontend Frameworks
@@ -89,40 +78,40 @@ function App() {
     'Linode',
 
     // Testing Frameworks
-    'Jest',
-    'Mocha',
-    'Cypress',
-    'Selenium',
-    'Puppeteer',
-    'Playwright',
-    'Karma',
-    'AVA',
-    'TestCafe',
-    'QUnit',
+    // 'Jest',
+    // 'Mocha',
+    // 'Cypress',
+    // 'Selenium',
+    // 'Puppeteer',
+    // 'Playwright',
+    // 'Karma',
+    // 'AVA',
+    // 'TestCafe',
+    // 'QUnit',
 
     // UI Libraries
-    'Bootstrap',
-    'Tailwind CSS',
-    'Material-UI',
-    'Ant Design',
-    'Bulma',
-    'Foundation',
-    'Chakra UI',
-    'Vuetify',
-    'PrimeReact',
-    'Metro 4',
+    // 'Bootstrap',
+    // 'Tailwind CSS',
+    // 'Material-UI',
+    // 'Ant Design',
+    // 'Bulma',
+    // 'Foundation',
+    // 'Chakra UI',
+    // 'Vuetify',
+    // 'PrimeReact',
+    // 'Metro 4',
 
     // Other Tools
-    'Webpack',
-    'Parcel',
-    'Rollup',
-    'Babel',
-    'ESLint',
-    'Prettier',
-    'Storybook',
-    'Figma',
-    'Canva',
-    'Sketch'
+    // 'Webpack',
+    // 'Parcel',
+    // 'Rollup',
+    // 'Babel',
+    // 'ESLint',
+    // 'Prettier',
+    // 'Storybook',
+    // 'Figma',
+    // 'Canva',
+    // 'Sketch'
 ];
 
 
